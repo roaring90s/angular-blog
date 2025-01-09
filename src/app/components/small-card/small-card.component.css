@@ -8,6 +8,7 @@
 .container__small-card-content{
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .small-card__photo > img {
@@ -20,8 +21,8 @@
 
 .small-card__title {
     display: flex;
-    justify-content: center;
     align-items: center;
+    margin: 0;
 }
 
 .container__small-card_separator {
