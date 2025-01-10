@@ -24,7 +24,7 @@ This website is designed to:
 - *[Aroma Inerente](https://www.wattpad.com/1378270877-colet%C3%A2nea-m-a-textos-aleat%C3%B3rios-aroma-inerente)* - A poetic heartbreak tale, set in modern New York, featuring an unsual costumer in a cafe who always asks for the same coffee, but always with a different company.
 
 ### Poems
-- *[Title 6](https://www.wattpad.com/1388135955-colet%C3%A2nea-m-a-textos-aleat%C3%B3rios-edith)* - Written for a special Halloween edition of a friend's online magazine, Edith is inspired in Fran Bow, something almost Alice in Wonderland-esque.
+- *[Edith](https://www.wattpad.com/1388135955-colet%C3%A2nea-m-a-textos-aleat%C3%B3rios-edith)* - Written for a special Halloween edition of a friend's online magazine, Edith is inspired in Fran Bow, something almost Alice in Wonderland-esque.
 
 ---
 
