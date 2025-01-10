@@ -2,6 +2,7 @@
 
 Welcome to **Marco's Blog** — a prototype for my personal writer's page! ✍️  
 Here, I showcase my main **novels**, **short stories**, and **poems**, all of which are available on [Wattpad](https://www.wattpad.com/user/RadioheadSmiling).
+To this date, all of the content is written in my native language, portuguese. But soon enough, I will provide myself accurate english adaptations.
 
 ---
 
